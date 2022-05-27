@@ -1,2 +1,4 @@
 criaçao do html e do css
    estamos alterando o arquivo e durante acabamos criando a funcionalidade dentro da "main"
+ 
+validacao de usuario com javascrip
